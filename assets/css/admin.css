@@ -1,0 +1,15 @@
+/* Layout for the bulk rule rows */
+.wp-admin .soft79_bulk_rules .wrap input,
+.wp-admin .soft79_bulk_rules .wrap select,
+.wp-admin .soft79_bulk_rules .wrap span
+{width:25%;margin-right:3%}
+
+.wp-admin .soft79_bulk_rules .wrap span
+{display:inline-block}
+
+.wp-admin .soft79_bulk_rules .wrap
+{display:block;max-width:800px}
+
+.wp-admin .soft79_bulk_rules .soft79_bulk_row
+{margin-top:0 !important;margin-bottom:0 !important}
+
